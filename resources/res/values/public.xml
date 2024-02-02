@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="logo" id="0x7f020000" />
+    <public type="string" name="app_name" id="0x7f030000" />
+    <public type="string" name="airplay_main_name" id="0x7f030001" />
+    <public type="string" name="airplay_copilot_name" id="0x7f030002" />
+    <public type="string" name="airplay_rear_name" id="0x7f030003" />
+    <public type="style" name="AppTheme" id="0x7f040000" />
+</resources>

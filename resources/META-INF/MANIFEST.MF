@@ -1,0 +1,246 @@
+Manifest-Version: 1.0
+Created-By: 9 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: UwDnCG62V3DcgE1UAq4TmKhaXITHdgrMpU/lEzooK1g=
+
+Name: about.html
+SHA-256-Digest: xWM35LVJ0W2xpj/VxH20qMS3NX348PD443YXzXwlg04=
+
+Name: about_files/LICENSE_CDDL.txt
+SHA-256-Digest: pMgIadr0NQtnc71ebuHQpsxStj2zo9LcIJYbDN0nKlw=
+
+Name: beans_1_0.xsd
+SHA-256-Digest: 2oDwL4bgQvYS+EvwqV1qYvBL06J/hbq0vQxMN4DeK54=
+
+Name: beans_1_1.xsd
+SHA-256-Digest: 1rEuHJscH4ojZ74A64MuTS22TufRnw1EzKD4Amf86bE=
+
+Name: beans_2_0.xsd
+SHA-256-Digest: eiNMtcZ/4jSXqfBkXaXz4EN45a5dR8YcizWhqNl2R4I=
+
+Name: classes.dex
+SHA-256-Digest: 3nk+glBcdoOmrs9fxMAWXXmXLvrWEUHz8FQDIn1rlfU=
+
+Name: javax/annotation/package.html
+SHA-256-Digest: JRXk1W6vSc8TmlPYEuao47EWuP3EQj7IzfTLh+bc7XM=
+
+Name: javax/annotation/security/package.html
+SHA-256-Digest: nFb/7ifjdmNUhGD+0f/8pZQCp+yAV2Kz8JsyxdG6dU0=
+
+Name: javax/servlet/LocalStrings.properties
+SHA-256-Digest: u+Vs8OkGiCM3I2Svs/h76A7vEONIhLEtlnUjMcP5UYM=
+
+Name: javax/servlet/LocalStrings_fr.properties
+SHA-256-Digest: 0L2/Wf1buIDESwAybflL7DSg4lj5jcJG93O9h9PToGw=
+
+Name: javax/servlet/LocalStrings_ja.properties
+SHA-256-Digest: 4NSzo4GOkBqLgRpThDBT3sl5q1xIADp7Rs9efnniA2s=
+
+Name: javax/servlet/annotation/package.html
+SHA-256-Digest: saMSs9Qv7JYPgSZu+HTiJjGSBr+XVLBSBljw/C2fIc0=
+
+Name: javax/servlet/descriptor/package.html
+SHA-256-Digest: NO4cBX3Jq7XRlLRtWETGUsjyECkjPHnX0UDP4Xa4xNY=
+
+Name: javax/servlet/http/LocalStrings.properties
+SHA-256-Digest: jTZQ3fhlrsyRTA3Bp6uFM187EHLX5Skq0qKnoLPMsEI=
+
+Name: javax/servlet/http/LocalStrings_es.properties
+SHA-256-Digest: 2hOcS9Wz0bKgDiSgB0QxmuFm4oyuj5gz40qRy+kCw88=
+
+Name: javax/servlet/http/LocalStrings_fr.properties
+SHA-256-Digest: +oajvRW4Cl9w6CvCD+GcpMenZONPVDTLXsk62WQQnBA=
+
+Name: javax/servlet/http/LocalStrings_ja.properties
+SHA-256-Digest: B6UC0uSo7NKXHPAcdSPVHrQyAn1Rp9Q4UtDgujhrUr4=
+
+Name: javax/servlet/http/package.html
+SHA-256-Digest: 5x8p8ZHGTiGUvVnNK59P4baXr8jTmibkjrCkUeSrKkA=
+
+Name: javax/servlet/package.html
+SHA-256-Digest: 9QCQQ1RE24mdCwCYxSN7pROiDMhyo6ZaMf2iuv4fh6A=
+
+Name: javax/servlet/resources/XMLSchema.dtd
+SHA-256-Digest: FWXrVcqUsAztL1+jl6JB2VGNBtQy06pwVjGeh1QL+kA=
+
+Name: javax/servlet/resources/datatypes.dtd
+SHA-256-Digest: EVoJaQ5wYn6fTIaO3a6w7biIwVjqAm1G6rLQBJCEj6U=
+
+Name: javax/servlet/resources/j2ee_1_4.xsd
+SHA-256-Digest: KzPi/Ot4ZOpN2n1KuC3C2dnlpEwDR92jqnCJ3yYRcYI=
+
+Name: javax/servlet/resources/j2ee_web_services_1_1.xsd
+SHA-256-Digest: NPpyZXk/DcTgOMR4OKLnsTO9QVjxb3x7trFKmqEf5Lg=
+
+Name: javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+SHA-256-Digest: awknpHerGv38YLdkNzVbMeyahnbs5IB1y8AUQIjDJ04=
+
+Name: javax/servlet/resources/javaee_5.xsd
+SHA-256-Digest: f+FfbLovYVuS0O+gcxzG5/aCqux5+n1mX9Pm0GikoVg=
+
+Name: javax/servlet/resources/javaee_6.xsd
+SHA-256-Digest: uH1M7TfiGgrXSVHqVyINc/JaOHF7zvpOVq3OF1B7QIY=
+
+Name: javax/servlet/resources/javaee_web_services_1_2.xsd
+SHA-256-Digest: GllJDagW252YndRNt9DzQSSSs8/RgSH9ohEdctwczSg=
+
+Name: javax/servlet/resources/javaee_web_services_1_3.xsd
+SHA-256-Digest: Z7KUzFvqDEZ4HRb4CUCD32asIr485Q3riY9giMFMHT0=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_2.xsd
+SHA-256-Digest: n6X+eAcrq7ldi7dzHgj+kRkFMS2t6XpFDnMtmFX+E5w=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_3.xsd
+SHA-256-Digest: rRxzH7nfpfK3r2aG4GU7Li1Aa8B1pQWoDIR7ZIMkz7g=
+
+Name: javax/servlet/resources/web-app_2_2.dtd
+SHA-256-Digest: 3UUb/iZCSlFqgi84y3jpX9bkQX/LEkOJbaa9DwkzZxU=
+
+Name: javax/servlet/resources/web-app_2_3.dtd
+SHA-256-Digest: sowHWnQ98o1QdDQQfkIZsnXmgNwc70pcXZj7HIuIj94=
+
+Name: javax/servlet/resources/web-app_2_4.xsd
+SHA-256-Digest: Tl8mnud+z9v3dHli4nplJY4RIH47ZPeV7vGLN71Wozo=
+
+Name: javax/servlet/resources/web-app_2_5.xsd
+SHA-256-Digest: ISRE3yuLjZdEHAujzTQzFxNTMZnbSUgg7b9E32I34JY=
+
+Name: javax/servlet/resources/web-app_3_0.xsd
+SHA-256-Digest: owDCN4xTpwu6ua7xKogUpMOD4P2aGaOLqK+s974NPxE=
+
+Name: javax/servlet/resources/web-common_3_0.xsd
+SHA-256-Digest: IdNK+q25G4YYiEXBLGMI9+ZTW/igLDt8Rtab59IDpsI=
+
+Name: javax/servlet/resources/web-fragment_3_0.xsd
+SHA-256-Digest: LHe0qRnxQWlnK1O3n8oQPcz8wEJCifCaTL3pCXmuyYs=
+
+Name: javax/servlet/resources/xml.xsd
+SHA-256-Digest: Hf+hOchgDYN77TEQb0av6dSfLdql5LLyt+G5M3g9uJw=
+
+Name: jetty-dir.css
+SHA-256-Digest: n+3r1UKKhVMg/jN4h3YhPyUk3ABtwPpC49h1HBWRq2I=
+
+Name: org/eclipse/jetty/favicon.ico
+SHA-256-Digest: mBu+4OoORlKfUvZ6KG/9i3T51qNkxGZQ3bpZAut7BMY=
+
+Name: org/eclipse/jetty/http/encoding.properties
+SHA-256-Digest: q0JdR8ZgZpROfBIpSDCIK7e0dnWd841fRKWCj2iBD4A=
+
+Name: org/eclipse/jetty/http/mime.properties
+SHA-256-Digest: 2J9zLn3z74RKZb5HapFfBYINFt73urShd3GPQgRacDQ=
+
+Name: org/eclipse/jetty/http/useragents
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: org/eclipse/jetty/server/handler/jmx/AbstractHandler-mbean.prope
+ rties
+SHA-256-Digest: b+WB4N0JD0erfhlZZsWQbLsS09mmOtzQl7hZMbnqcoY=
+
+Name: org/eclipse/jetty/server/handler/jmx/ContextHandler-mbean.proper
+ ties
+SHA-256-Digest: ZGUQMlcljoJCFGrfco4HN/811N4Cap1RA5UVAT6SrZM=
+
+Name: org/eclipse/jetty/server/handler/jmx/ContextHandlerCollection-mb
+ ean.properties
+SHA-256-Digest: jwz1efsqFtbwivE2GIBWcHiVXn9tpRA2495Pwk5kQsY=
+
+Name: org/eclipse/jetty/server/handler/jmx/HandlerCollection-mbean.pro
+ perties
+SHA-256-Digest: ervfe9ZqfzjvDw8tbxXed/voh/wP3WRTY/8qslBWicQ=
+
+Name: org/eclipse/jetty/server/handler/jmx/HandlerWrapper-mbean.proper
+ ties
+SHA-256-Digest: rKhyoLHf5TXRz9fzCfSXMnXhmtKF1oyp0olhIzJllXc=
+
+Name: org/eclipse/jetty/server/handler/jmx/StatisticsHandler-mbean.pro
+ perties
+SHA-256-Digest: /bs+1kYu0H84Lk2J0DwHjrtHf9/sYObqWtQIw4ZdsJY=
+
+Name: org/eclipse/jetty/server/jmx/AbstractConnector-mbean.properties
+SHA-256-Digest: 3fnORdH7vhUTJBcw1/l0Cx/qNmIS2Ecpj3+EDcHKdVA=
+
+Name: org/eclipse/jetty/server/jmx/Connector-mbean.properties
+SHA-256-Digest: 5Yzeaa0LS2klKZpLek78KNx6wmEhlORGR0/+5n1EFmU=
+
+Name: org/eclipse/jetty/server/jmx/Handler-mbean.properties
+SHA-256-Digest: 0AGzzEMTXLwnFQ1zrcNQD7hlLZJJknSUGKwxxF5qqmc=
+
+Name: org/eclipse/jetty/server/jmx/HandlerContainer-mbean.properties
+SHA-256-Digest: vTPGV/HQGb4dDIPB2WH5QBqw3vmIR1j65bQ1jS0a54E=
+
+Name: org/eclipse/jetty/server/jmx/NCSARequestLog-mbean.properties
+SHA-256-Digest: SY1JdhaqC9qKetDqHZmVFT1MhsMlZxIAfwVrzA1xgw4=
+
+Name: org/eclipse/jetty/server/jmx/Server-mbean.properties
+SHA-256-Digest: JS0x444W/4WRh8FSttrZSgOxsr5pICPCKMh03eOsNi4=
+
+Name: org/eclipse/jetty/server/nio/jmx/SelectChannelConnector-mbean.pr
+ operties
+SHA-256-Digest: /8H65fvjifYM4VfJ5Lvv0liP/w8yS03H/3B7v2lb8LU=
+
+Name: org/eclipse/jetty/server/session/jmx/AbstractSessionManager-mbea
+ n.properties
+SHA-256-Digest: 7EgEloM7OJiD5ampHSanT5NU4STwMUCJ9NRF8Mv+lAE=
+
+Name: org/eclipse/jetty/servlet/jmx/FilterMapping-mbean.properties
+SHA-256-Digest: +05646fV8jmUhVZNyQAeDmC/gTIs54/UvIlqO7hEELU=
+
+Name: org/eclipse/jetty/servlet/jmx/Holder-mbean.properties
+SHA-256-Digest: h39HzDfGfxb2h6C6FhkZPAp0yexuAc13aOidanu5how=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletContextHandler-mbean.proper
+ ties
+SHA-256-Digest: mk5MmGJy25V5rF5Vm7v0EHVQ72UzCOixU59AWu+D208=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletHandler-mbean.properties
+SHA-256-Digest: +CZmI5mZB8ufc3XHkLaMXbnLtAzyPE2K90X/XhARcq4=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletHolder-mbean.properties
+SHA-256-Digest: XKok/J5ZHceZa9oMqPgyQA9swtg21I6OoRLbPP0jJaY=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletMapping-mbean.properties
+SHA-256-Digest: AMw0WM7SMo1lme8FM5jVXPyK3Jtd369a1lfOW05Nb7g=
+
+Name: org/seamless/schemas/xhtml1-strict.xsd
+SHA-256-Digest: x/RGMbahpOTse9Za0EJzUIBasJEOExIpnHKwrz66gL4=
+
+Name: org/seamless/schemas/xml.xsd
+SHA-256-Digest: cUBVOwZ0aJzfuUr4D0bqaw7CQfb0PbogqILTq3IP1/w=
+
+Name: org/seamless/swing/logging/img/configure.png
+SHA-256-Digest: De9hLiKtp3PjiUnQe0SslaJlPNvwYPOmRsy7b1HpxPc=
+
+Name: org/seamless/swing/logging/img/copyclipboard.png
+SHA-256-Digest: OTfQUbgH+4kZGbUpd7n8jJAgbqoHUtH6pdyJ4lcUBHI=
+
+Name: org/seamless/swing/logging/img/debug.png
+SHA-256-Digest: qKvKEZaOIKQmXNg/+sKiPoBWRSLSvM25OQnXpq5+/pg=
+
+Name: org/seamless/swing/logging/img/info.png
+SHA-256-Digest: 1W+g5Q69nOZt0RpbNcdBqO7mo7lyFj6G7RaEAJf4gxI=
+
+Name: org/seamless/swing/logging/img/pause.png
+SHA-256-Digest: h3hqF/TZ8v0ucdcWFdr71ntmHR9S5vrzOoL7w7SeOo8=
+
+Name: org/seamless/swing/logging/img/removetext.png
+SHA-256-Digest: dUHztpRnwAALcYm5N91l02IjqpUPSgbesPToIKcyT3w=
+
+Name: org/seamless/swing/logging/img/trace.png
+SHA-256-Digest: Tbn5k0Zqwc0INbScJnEKjtYjIsViDSf/j4AxzVDuKZs=
+
+Name: org/seamless/swing/logging/img/viewtext.png
+SHA-256-Digest: c6RuXo9m8rsa13gjXs+L994auv96/m8P1T6XGanNFLk=
+
+Name: org/seamless/swing/logging/img/warn.png
+SHA-256-Digest: 4Q4OWJ+I66SNNugZltnhEuvo8aFV+ejWwJAHntJVUrU=
+
+Name: plugin.properties
+SHA-256-Digest: ByxPab4AmOlWfsxJuP08PAsaGV47olxTmsjQMBIT3sI=
+
+Name: res/mipmap-hdpi-v4/logo.png
+SHA-256-Digest: +PgE+hUgZV1mn6R5rmM32QQHEiURJ7Ptrq02zcBo+7s=
+
+Name: resources.arsc
+SHA-256-Digest: Z4d/1RF9PZ1GxjdvoWPQgAzjZOEeZsKI6tF6ThHtL/8=
+

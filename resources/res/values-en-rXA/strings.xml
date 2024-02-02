@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[×þéñĝÅîŕþļåý one two]</string>
+    <string name="airplay_main_name">[»%s«的中控屏 one]</string>
+    <string name="airplay_copilot_name">[»%s«的副驾屏 one]</string>
+    <string name="airplay_rear_name">[»%s«的后排屏 one]</string>
+</resources>
